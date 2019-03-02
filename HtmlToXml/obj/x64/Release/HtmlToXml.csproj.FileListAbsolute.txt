@@ -1,0 +1,11 @@
+D:\Projects\TripleTriadMaster\HtmlToXml\bin\x64\Release\HtmlToXml.exe.config
+D:\Projects\TripleTriadMaster\HtmlToXml\bin\x64\Release\HtmlToXml.exe
+D:\Projects\TripleTriadMaster\HtmlToXml\bin\x64\Release\Core.exe
+D:\Projects\TripleTriadMaster\HtmlToXml\bin\x64\Release\Core.pdb
+D:\Projects\TripleTriadMaster\HtmlToXml\bin\x64\Release\Core.exe.config
+D:\Projects\TripleTriadMaster\HtmlToXml\obj\x64\Release\HtmlToXml.csprojAssemblyReference.cache
+D:\Projects\TripleTriadMaster\HtmlToXml\obj\x64\Release\HtmlToXml.csproj.CoreCompileInputs.cache
+D:\Projects\TripleTriadMaster\HtmlToXml\obj\x64\Release\HtmlToXml.csproj.CopyComplete
+D:\Projects\TripleTriadMaster\HtmlToXml\obj\x64\Release\HtmlToXml.exe
+D:\Projects\TripleTriadMaster\HtmlToXml\bin\x64\Release\HtmlToXml.pdb
+D:\Projects\TripleTriadMaster\HtmlToXml\obj\x64\Release\HtmlToXml.pdb

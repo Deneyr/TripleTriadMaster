@@ -1,0 +1,7 @@
+D:\Projects\TripleTriadMaster\Core\bin\x64\Release\Core.exe.config
+D:\Projects\TripleTriadMaster\Core\bin\x64\Release\Core.exe
+D:\Projects\TripleTriadMaster\Core\obj\x64\Release\Core.csproj.CoreCompileInputs.cache
+D:\Projects\TripleTriadMaster\Core\obj\x64\Release\Core.exe
+D:\Projects\TripleTriadMaster\Core\bin\x64\Release\Core.pdb
+D:\Projects\TripleTriadMaster\Core\obj\x64\Release\Core.pdb
+D:\Projects\TripleTriadMaster\Core\obj\x64\Release\Core.csprojAssemblyReference.cache

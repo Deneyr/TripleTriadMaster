@@ -1,0 +1,1981 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CardLibrary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CardList>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Dodo Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Tonberry Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Sabotender Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Spriggan Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Pudding Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Bomb Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Mandragora Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Coblyn Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Morbol Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Coeurl Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Ahriman Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Goobbue Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Chocobo Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Amalj'aa Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Ixal Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Sylph Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Kobold Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Sahagin Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Tataru Taru Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Moogle Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Siren Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Ultros  Typhon Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Demon Wall Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Succubus Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Chimera Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Blue Dragon Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Scarface Bugaal Ja Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Momodi Modi Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Baderon Tenfingers Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Mother Miounne Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Livia sas Junius Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Rhitahtyn sas Arvina Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Biggs  Wedge Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Gerolt Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Frixio Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Mutamix Bubblypots Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Memeroon Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Behemoth Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Gilgamesh  Enkidu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Ifrit Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Titan Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Garuda Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Good King Moggle Mog XII Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Raya-O-Senna  A-Ruhn-Senna Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Godbert Manderville Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Thancred Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Nero tol Scaeva Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Papalymo  Yda Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Y'shtola Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Urianger Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>9</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Ultima Weapon Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Odin Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Ramuh Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Leviathan Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Shiva Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Minfilia Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>9</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Lahabrea Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>9</RightValue>
+      <BottomValue>9</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Cid Garlond Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>9</LeftValue>
+      <Name>Alphinaud  Alisaie Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>9</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Louisoix Leveilleur Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>9</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Bahamut Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Hildibrand  Nashu Mhakaracca Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>10</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Nanamo Ul Namo Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>10</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>9</LeftValue>
+      <Name>Gaius van Baelsar Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>9</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Merlwyb Bloefhiswyn Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>10</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Kan-E-Senna Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>9</BottomValue>
+      <LeftValue>10</LeftValue>
+      <Name>Raubahn Aldynn Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>10</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>10</LeftValue>
+      <Name>Warrior of Light Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>10</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Firion Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>10</LeftValue>
+      <Name>Onion Knight Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>10</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>10</LeftValue>
+      <Name>Cecil Harvey Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>10</LeftValue>
+      <Name>Bartz Klauser Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>10</TopValue>
+      <RightValue>10</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Terra Branford Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>9</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Cloud Strife Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>10</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Squall Leonhart Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>10</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Zidane Tribal Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>10</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>9</LeftValue>
+      <Name>Tidus Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>9</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>9</LeftValue>
+      <Name>Shantotto Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>9</LeftValue>
+      <Name>Vaan Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>10</LeftValue>
+      <Name>Lightning Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Gaelicat Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Vanu Vanu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Gnath Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Yugiri Mistwalker Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Fat Chocobo Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Griffin Card 1</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Tioman Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Estinien Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Lucia goe Junius Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Ysayle Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Hilda Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Matoya Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Count Edmont de Fortemps Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Byblos Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Haurchefant Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>9</BottomValue>
+      <LeftValue>9</LeftValue>
+      <Name>Aymeric Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Ravana Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>9</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Bismarck Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>10</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Nidhogg Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Midgardsormr Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Deepeye Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Archaeornis Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Paissa Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Dhalmel Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Bandersnatch Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Crawler Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Poroggo Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Vedrfolnir Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Coeurlregina Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Progenitrix Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Belladonna Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Echidna Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Pipin Tarupin Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Julyan Manderville Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Moglin Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Charibert Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Roundrox Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Senor Sabotender Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Regula van Hydrus Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>9</LeftValue>
+      <Name>Archbishop Thordan VII Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Honoroit Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Hoary Boulder  Coultenet Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Brachiosaur Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Darkscale Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Fenrir Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Kraken Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Vicegerent to the Warden Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Manxome Molaa Ja Ja Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Ferdiad Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Calcabrina Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Kuribu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Phlegethon Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Artoirel de Fortemps Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Emmanellain de Fortemps Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Xande Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Brute Justice Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Sephirot Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>F'lhaminn Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Vidofnir Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>10</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Cloud of Darkness Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Lolorito Nanarito Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Gibrillont Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Laniaitte de Haillenarte Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Rhoswen Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Carvallain de Gorgagne Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Kal Myhk Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Waukkeon Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Curator Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Mistbeard Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Unei  Doga Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Tiamat Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Calofisteri Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Hraesvelgr Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Apkallu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Colibri Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Magitek Death Claw Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Liquid Flame Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Lost Lamb Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Delivery Moogle Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Magitek Colossus Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Strix Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Tozol Huatotl Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Alexander Prime Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Brendt, Brennan,  Bremondt Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>9</LeftValue>
+      <Name>Heavensward Thancred Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>9</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Heavensward Y'shtola Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>9</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>9</LeftValue>
+      <Name>Nael van Darnus Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>10</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Sophia Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Opo-opo Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Adamantoise Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Magitek Vanguard Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Magitek Gunship Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Gold Saucer Attendant Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Lava Scorpion Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Magitek Predator Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Magitek Sky Armor Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Griffin Card 2</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Roland Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>9</LeftValue>
+      <Name>Diabolos Hollow Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>9</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Armored Weapon Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Gigi Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>10</LeftValue>
+      <Name>Zurvan Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Namazu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Kojin Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Ananta Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>M'naago Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Kotokaze Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Mammoth Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Phoebad Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Susano Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Lakshmi Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Grynewaht Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Rasho Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Cirina Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Magnai Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Sadu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Shinryu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Yotsuyu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Krile Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>9</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Lyse Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>10</LeftValue>
+      <Name>Zenos yae Galvus Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>10</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>10</LeftValue>
+      <Name>Hien Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Mossling Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Chapuli Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Qiqirn Meateater Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Hrodric Poisontongue Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Fordola rem Lupis Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Rofocale Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>9</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Argath Thadalfus Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>10</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Raubahn and Pipin Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Koja Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Ango Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Guidance Node Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Tansui Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Genbu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Byakko Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Arenvald Lentinus Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>3</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Lupin Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>9</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Hancock Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>10</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>9</LeftValue>
+      <Name>Hisui  Kurenai Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Wanyudo  Katasharin Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Hatamoto Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Yukinko Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Qitian Dasheng Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Hiruko Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Happy Bunny Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>2</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Louhi Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Tsukuyomi Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Yiazmat Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>10</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>10</BottomValue>
+      <LeftValue>2</LeftValue>
+      <Name>Gosetsu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>1</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>4</LeftValue>
+      <Name>Karakuri Hanya Card</Name>
+    </Card>
+    <Card>
+      <Rarity>2</Rarity>
+      <TopValue>3</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Muud Suud Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>2</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Tokkapchi Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>5</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>5</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Mist Dragon Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Suzaku Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>4</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>4</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Pazuzu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>2</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>5</LeftValue>
+      <Name>Penthesilea Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>8</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Asahi sas Brutus Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>10</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Yojimbo  Daigoro Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>9</RightValue>
+      <BottomValue>3</BottomValue>
+      <LeftValue>10</LeftValue>
+      <Name>Omega Card</Name>
+    </Card>
+    <Card>
+      <Rarity>1</Rarity>
+      <TopValue>1</TopValue>
+      <RightValue>4</RightValue>
+      <BottomValue>1</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Stormblood Tataru Taru Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>5</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>3</LeftValue>
+      <Name>Prometheus Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>7</TopValue>
+      <RightValue>7</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>1</LeftValue>
+      <Name>Seiryu Card</Name>
+    </Card>
+    <Card>
+      <Rarity>3</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>6</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>6</LeftValue>
+      <Name>Alpha Card</Name>
+    </Card>
+    <Card>
+      <Rarity>4</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>9</RightValue>
+      <BottomValue>6</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Great Gold Whisker Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>10</RightValue>
+      <BottomValue>7</BottomValue>
+      <LeftValue>7</LeftValue>
+      <Name>Ultima, the High Seraph Card</Name>
+    </Card>
+    <Card>
+      <Rarity>5</Rarity>
+      <TopValue>6</TopValue>
+      <RightValue>8</RightValue>
+      <BottomValue>8</BottomValue>
+      <LeftValue>8</LeftValue>
+      <Name>Stormblood Alphinaud  Alisaie Card</Name>
+    </Card>
+  </CardList>
+</CardLibrary>

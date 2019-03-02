@@ -1,0 +1,11 @@
+D:\Projects\TripleTriadMaster\AI\bin\x64\Release\AI.exe.config
+D:\Projects\TripleTriadMaster\AI\bin\x64\Release\AI.exe
+D:\Projects\TripleTriadMaster\AI\bin\x64\Release\Core.exe
+D:\Projects\TripleTriadMaster\AI\bin\x64\Release\Core.pdb
+D:\Projects\TripleTriadMaster\AI\bin\x64\Release\Core.exe.config
+D:\Projects\TripleTriadMaster\AI\obj\x64\Release\AI.csprojAssemblyReference.cache
+D:\Projects\TripleTriadMaster\AI\obj\x64\Release\AI.csproj.CoreCompileInputs.cache
+D:\Projects\TripleTriadMaster\AI\obj\x64\Release\AI.csproj.CopyComplete
+D:\Projects\TripleTriadMaster\AI\obj\x64\Release\AI.exe
+D:\Projects\TripleTriadMaster\AI\bin\x64\Release\AI.pdb
+D:\Projects\TripleTriadMaster\AI\obj\x64\Release\AI.pdb

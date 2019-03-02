@@ -1,0 +1,13 @@
+D:\Projects\TripleTriadMaster\TripleTriadMaster\bin\x64\Release\TripleTriadMaster.exe.config
+D:\Projects\TripleTriadMaster\TripleTriadMaster\bin\x64\Release\TripleTriadMaster.exe
+D:\Projects\TripleTriadMaster\TripleTriadMaster\obj\x64\Release\TripleTriadMaster.csprojAssemblyReference.cache
+D:\Projects\TripleTriadMaster\TripleTriadMaster\obj\x64\Release\MainWindow.g.cs
+D:\Projects\TripleTriadMaster\TripleTriadMaster\obj\x64\Release\App.g.cs
+D:\Projects\TripleTriadMaster\TripleTriadMaster\obj\x64\Release\TripleTriadMaster_MarkupCompile.cache
+D:\Projects\TripleTriadMaster\TripleTriadMaster\obj\x64\Release\TripleTriadMaster_MarkupCompile.lref
+D:\Projects\TripleTriadMaster\TripleTriadMaster\obj\x64\Release\MainWindow.baml
+D:\Projects\TripleTriadMaster\TripleTriadMaster\obj\x64\Release\TripleTriadMaster.g.resources
+D:\Projects\TripleTriadMaster\TripleTriadMaster\obj\x64\Release\TripleTriadMaster.Properties.Resources.resources
+D:\Projects\TripleTriadMaster\TripleTriadMaster\obj\x64\Release\TripleTriadMaster.csproj.GenerateResource.cache
+D:\Projects\TripleTriadMaster\TripleTriadMaster\obj\x64\Release\TripleTriadMaster.csproj.CoreCompileInputs.cache
+D:\Projects\TripleTriadMaster\TripleTriadMaster\obj\x64\Release\TripleTriadMaster.exe
