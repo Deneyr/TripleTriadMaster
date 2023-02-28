@@ -31,5 +31,26 @@ namespace Core.DataTypes
 
         #endregion
 
+        #region
+
+        public CardDeck CreateDeckFromCardNames(string[] lCardsName)
+        {
+            CardDeck lCardDeck = new CardDeck();
+
+            foreach(string lCardName in lCardsName)
+            {
+                CardTemplate lCardTemplate = this.CardList.FirstOrDefault(pElem => pElem.Name.ToLower().Contains(lCardName.ToLower()));
+
+                if(lCardTemplate != null)
+                {
+                    lCardDeck.AddCardToDeck(new CardInstance(lCardTemplate));
+                }
+            }
+
+            return lCardDeck;
+        }
+
+        #endregion
+
     }
 }

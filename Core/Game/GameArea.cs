@@ -41,6 +41,8 @@ namespace Core.Game
         public Player Player1 { get => mPlayer1; }
         public Player Player2 { get => mPlayer2; }
 
+        public Tuple<Player, CardTemplate>[,] GameSpace { get => mGameSpace; }
+
         public GameArea()
         {
             this.mGameSpace = new Tuple<Player, CardTemplate>[3, 3];

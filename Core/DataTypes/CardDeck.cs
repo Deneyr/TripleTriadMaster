@@ -82,16 +82,30 @@ namespace Core.DataTypes
             }
         }
 
+        public override string ToString()
+        {
+            string lResult = string.Empty;
+
+            int i = 0;
+            foreach (Tuple<bool, CardTemplate> lCardTemplate in this.mCardTemplates)
+            {
+                if (i != 0)
+                {
+                    lResult += " - ";
+                }
+
+                lResult += lCardTemplate.Item2.Name;
+                i++;
+            }
+
+            return lResult;
+        }
+
         public object Clone()
         {
             CardDeck lNewCardDeck = new CardDeck();
 
             lNewCardDeck.mCardTemplates = new List<Tuple<bool, CardTemplate>>(this.mCardTemplates);
-
-            /*foreach(Tuple<bool, CardTemplate> lTuple in this.mCardTemplates)
-            {
-                mCardTemplates.Add(new Tuple<bool, CardTemplate>(lTuple.Item1, lTuple.Item2));
-            }*/
 
             return lNewCardDeck;
         }

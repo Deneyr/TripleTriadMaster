@@ -41,7 +41,9 @@ namespace Core.Commands
 
         public override string ToString()
         {
-            return XPosition.ToString() + " - " + (3 - YPosition).ToString();
+            CardTemplate lCardTemplate = this.mPuppet.CardDeck.CardTemplates.ElementAt(this.CardIndex).Item2;
+
+            return lCardTemplate.Name + " => " + YPosition.ToString() + " - " + XPosition.ToString();
         }
     }
 }

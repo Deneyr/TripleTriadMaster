@@ -5,8 +5,56 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TripleTriadMaster"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="600" Width="800">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="1" Background="GhostWhite" BorderBrush="Gainsboro" BorderThickness="5">
+            <Grid Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                </Grid.RowDefinitions>
+
+                <Border Grid.Row="0" Grid.Column="0">
+                    <Image Name="mImage00"/>
+                </Border>
+                <Border Grid.Row="0" Grid.Column="1">
+                    <Image Name="mImage01"/>
+                </Border>
+                <Border Grid.Row="0" Grid.Column="2">
+                    <Image Name="mImage02"/>
+                </Border>
+
+                <Border Grid.Row="1" Grid.Column="0">
+                    <Image Name="mImage10"/>
+                </Border>
+                <Border Grid.Row="1" Grid.Column="1">
+                    <Image Name="mImage11"/>
+                </Border>
+                <Border Grid.Row="1" Grid.Column="2">
+                    <Image Name="mImage12"/>
+                </Border>
+
+                <Border Grid.Row="2" Grid.Column="0">
+                    <Image Name="mImage20"/>
+                </Border>
+                <Border Grid.Row="2" Grid.Column="1">
+                    <Image Name="mImage21"/>
+                </Border>
+                <Border Grid.Row="2" Grid.Column="2">
+                    <Image Name="mImage22"/>
+                </Border>
+            </Grid>
+        </Border>
     </Grid>
 </Window>

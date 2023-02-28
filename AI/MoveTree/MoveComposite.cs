@@ -50,13 +50,16 @@ namespace AI.MoveTree
                 lPlayer = pGameArea.Player1;
             }
 
-            if (lAvailableCards.Count() == 1 && lAvailableFrames.Count() == 1)
+            if (lAvailableFrames.Count() == 1)
             {
-                ACommand lCommand = new PlayCardCommand(lPlayer, lAvailableCards.ElementAt(0), lAvailableFrames.ElementAt(0).Item1, lAvailableFrames.ElementAt(0).Item2);
+                foreach (int lCardIndex in lAvailableCards)
+                {
+                    ACommand lCommand = new PlayCardCommand(lPlayer, lCardIndex, lAvailableFrames.ElementAt(0).Item1, lAvailableFrames.ElementAt(0).Item2);
 
-                MoveLeaf lMoveLeaf = new MoveLeaf(this, lCommand);
+                    MoveLeaf lMoveLeaf = new MoveLeaf(this, lCommand);
 
-                this.mChildren.Add(lMoveLeaf);
+                    this.mChildren.Add(lMoveLeaf);
+                }
             }
             else
             {

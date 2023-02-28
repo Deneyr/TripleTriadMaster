@@ -16,7 +16,14 @@ namespace AI
         {
             CardLibrary lCardLibrary = CardSerializer.DeserializeCardLibrary("CardListV1.xml");
 
-            CardDeck lCardDeck1 = new CardDeck();
+            CardDeck lCardDeck1 = lCardLibrary.CreateDeckFromCardNames(new string[] {
+                "Asahi", "Ysayle", "Kan-E", "Fordola", "Hilda"
+            });
+            CardDeck lCardDeck2 = lCardLibrary.CreateDeckFromCardNames(new string[] {
+                "Titan", "Ifrit", "Nero", "Thancred", "Baha"
+            });
+
+            /*CardDeck lCardDeck1 = new CardDeck();
             CardDeck lCardDeck2 = new CardDeck();
 
             int i = 0;
@@ -28,11 +35,15 @@ namespace AI
             for (i = 5; i < 10; i++)
             {
                 lCardDeck2.AddCardToDeck(new CardInstance(lCardLibrary.CardList.ElementAt(i)));
-            }
+            }*/
 
             BrutForceAI lBrutForceAI = new BrutForceAI();
 
-            lBrutForceAI.InitializeSimulation(lCardDeck1, lCardDeck2, 0);
+            Console.WriteLine(lCardDeck1.ToString());
+            Console.WriteLine(lCardDeck2.ToString());
+            Console.WriteLine("--------------------------------");
+
+            lBrutForceAI.InitializeSimulation(lCardDeck2, lCardDeck1, 0);
 
             List<ACommand> lListCommand = lBrutForceAI.GetBestMoves();
 
@@ -40,6 +51,7 @@ namespace AI
             {
                 Console.WriteLine(lCommand.ToString());
             }
+            Console.ReadKey();
         }
     }
 }

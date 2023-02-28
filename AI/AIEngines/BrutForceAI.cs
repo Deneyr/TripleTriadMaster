@@ -48,8 +48,23 @@ namespace AI.AIEngines
 
             // TO REMOVE
 
-            /*ACommand lCommand = new PlayCardCommand(this.mGameArea.PlayerTurn, 3, 0, 2);
+            /*ACommand lCommand = new PlayCardCommand(this.mGameArea.PlayerTurn, 1, 0, 0);
             lCommand.RunCommand();
+
+            lCommand = new PlayCardCommand(this.mGameArea.PlayerTurn, 3, 2, 1);
+            lCommand.RunCommand();
+
+            lCommand = new PlayCardCommand(this.mGameArea.PlayerTurn, 2, 2, 0);
+            lCommand.RunCommand();
+
+
+
+            lCommand = new PlayCardCommand(this.mGameArea.PlayerTurn, 4, 1, 0);
+            lCommand.RunCommand();
+
+            lCommand = new PlayCardCommand(this.mGameArea.PlayerTurn, 0, 2, 2);
+            lCommand.RunCommand();
+
             lMoveRoot.CreateChildren(this.mGameArea);*/
 
             // END 
@@ -77,7 +92,7 @@ namespace AI.AIEngines
             lMoveRoot.ComputeFitnessAndClean(this.mGameArea);
 
             List<ACommand> lResult = new List<ACommand>();
-
+            
             lCurrentComponent = lMoveRoot.BestChild;
             while(lCurrentComponent != null)
             {
